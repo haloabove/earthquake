@@ -1,7 +1,6 @@
 # appscore
 #You have to have node.js installed :
-
-# https://nodejs.org/en/
+ https://nodejs.org/en/
 
 
 > Earthquake monitor 
