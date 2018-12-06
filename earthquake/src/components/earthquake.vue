@@ -20,7 +20,6 @@ function initGoogleMaps(locations) {
   loadGoogleMapsApi()
     .then(googleMaps => {
       var map = new googleMaps.Map(document.querySelector(".map"), {
-        key: "AIzaSyDB-SzdChBCrHAUu5WighnanxnLx2xKOB4",
         zoom: 1.9,
         center: new googleMaps.LatLng(0, 0)
       });
