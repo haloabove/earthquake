@@ -6,8 +6,7 @@
 > Earthquake monitor 
 
 ## Build Setup
-
-# If you do not have dependencies installed you will have to install them yourself.
+ If you do not have dependencies installed you will have to install them yourself.
 
 ``` bash
 #Go to the folder with project and run : 
