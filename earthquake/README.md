@@ -23,7 +23,9 @@ npm run build
 ```
 
 PLEASE NOTE : 
+
 1.If you do not have dependencies installed you will have to install them yourself.
+
 2.The google maps team has made using google api keys mandatory and is a charged service, since i do not plan to provide a public access to this project i will not insert one. 
  The API will respond with the message :
 
