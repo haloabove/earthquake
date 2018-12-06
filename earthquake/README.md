@@ -25,7 +25,7 @@ npm run dev
 npm run build
 ```
 
-PLEASE NOTE : The google maps team has made using google api keys mandatory, since i do not plan to provide a public access to this website i will not insert one. 
+PLEASE NOTE : The google maps team has made using google api keys mandatory and is charged service, since i do not plan to provide a public access to this project i will not insert one. 
  The API will respond with the message :
 
   This page can't load Google Maps correctly.
