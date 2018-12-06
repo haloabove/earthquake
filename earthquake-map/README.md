@@ -1,14 +1,11 @@
 # appscore
 #You have to have node.js installed :
-
-# https://nodejs.org/en/
+ https://nodejs.org/en/
 
 
 > Earthquake monitor 
 
 ## Build Setup
-
-# If you do not have dependencies installed you will have to install them yourself.
 
 ``` bash
 #Go to the folder with project and run : 
@@ -25,10 +22,14 @@ npm run dev
 npm run build
 ```
 
-PLEASE NOTE : The google maps team has made using google api keys mandatory, since i do not plan to provide a public access to this website i will not insert one. 
+PLEASE NOTE : 
+
+1.If you do not have dependencies installed you will have to install them yourself.
+
+2.The google maps team has made using google api keys mandatory and is a charged service, since i do not plan to provide a public access to this project i will not insert one. 
  The API will respond with the message :
 
   This page can't load Google Maps correctly.
     Do you own this website?
 
-This is a normal response. The map will work and the pins will be there.
+This is a normal response. The map will work and the pins will be there!
